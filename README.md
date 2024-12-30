@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<br>💻 Aiming for: better understanding of Data Science and AI<br>👩‍💻 Interested in:   FullStack, Machine Learning, and Artificial Intelligence<br>🤝 Looking for:   enhancing skills and coding practices<br>🌱 Currently:   senior majoring in Computer Science at FIU and a Google Scholar<br>⚡ Fun fact:   I love language learning and am passionate about content creation.
+<br>💻 Aiming for: better understanding of Data Science and AI<br>👩‍💻 Interested in:  AI <br>🤝 Current focus::   More practice<br>🌱 Currently:   Computer Scientist <br>⚡ Fun fact:   I love language learning and am passionate about content creation.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<br>💻 Aiming for: better understanding of Data Science and AI<br>👩‍💻 Interested in:  AI <br>🤝 Current focus::   More practice<br>🌱 Currently:   Computer Scientist <br>⚡ Fun fact:   I love language learning and am passionate about content creation.
+<br>💻 Aiming for: better understanding of Data Science and AI<br>👩‍💻 Main Interest:  AI <br>🤝 Current focus:   More practice<br>🌱 Currently:   Computer Scientist <br>⚡ Fun fact:   I love language learning and am passionate about content creation.
 
 
 ## 🌐 Socials:
